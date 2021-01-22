@@ -10,13 +10,12 @@
   background-color: #DDDDDD;
   color: inherit;
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
   padding: 100px;
-  text-align: center;
 }
 
 i {
   font-size: 3em;
   margin-bottom: .2em;
+  padding-right: 3em;
 }
